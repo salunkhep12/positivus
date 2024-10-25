@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+
+/* ===== main header ==== */
+.mainNavigation{padding: 10px 0;}
+.nav-content{display: flex; justify-content: space-between;}
+.navLogo{max-width: 220px;}
+.psnavbar-nav{display: flex;}
+.psnav-item .psnav-link{padding-left: 40px; color: #000; font-size: 20px; line-height: 28px;}
+.psnav-item:first-child .psnav-link{padding-left: 0;}
